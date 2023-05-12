@@ -1,8 +1,7 @@
 //*******************************************************************
 /**
  @file   MainActivity.java
- @author Thomas Breuer
- @ModifiedBy Nils Hoffmann
+ @author Nils Hoffmann
  @date   27.01.2022
  @brief
  **/
