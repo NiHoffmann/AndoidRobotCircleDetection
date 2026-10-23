@@ -1,4 +1,9 @@
 # CircleDetectionAndroidPhone
+*University project, October 2022*
+
+A cluster- and variance-based circle detection algorithm. It can be found in [BallDetection.java](AndroidRoboticProject/RobotControl/src/main/java/com/App/BallDetection.java).
+It was written for a university project: an Android phone is mounted on a mobile robot (OBR platform), and the robot follows a ball.
+
 Runs a home brew version for detecting a red ball or any other object that is projected into a 2D filled red cricle (such as a red bottel cap) on an android phone.
 Is able to detect any number of red Circles in an Image, but this was written for the open roberta board v1.0 developed by fraunhofer institut and makes a robot follow a ball.
 So only one circle that is determined to be the ball gets marked as the ball. Still works as stand alone object detection without the robot connected.
